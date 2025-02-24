@@ -12,7 +12,11 @@ By the end of this course, the student should be able to:-
 7. Estimate animal abundance
 
 ## Course Description
-Introductory ideas to ecological sampling. Quadrant sampling, distance sampling for line and point transect. Capture-recapture methods for closed populations. Extensions of capture-recapture methods: removal, catch effort and changes in ratio methods. Indirect sampling methods and estimation of animal abundance.
+- Introductory ideas to ecological sampling.
+- Quadrant sampling, distance sampling for line and point transect.
+- Capture-recapture methods for closed populations.
+- Extensions of capture-recapture methods: removal, catch effort and changes in ratio methods.
+- Indirect sampling methods and estimation of animal abundance.
 
 ## References
 ### Course Text Books:
